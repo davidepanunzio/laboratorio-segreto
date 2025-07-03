@@ -1,1 +1,1 @@
-# laboratorio-segreto
+Laboratorio Segreto - Diario degli Esperimenti
